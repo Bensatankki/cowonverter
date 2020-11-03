@@ -1,6 +1,6 @@
 [package]
 name = "cowonverter"
-version = "0.1.0"
+version = "1.0.01
 authors = ["Bensatankki <axu.hartikainen@gmail.com>"]
 edition = "2018"
 
