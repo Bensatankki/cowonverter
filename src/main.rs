@@ -1,3 +1,8 @@
+/*
+ * TODO use BufReader??
+ *TODO nice error handling
+ */
+
 use structopt::StructOpt;
 
 #[derive(StructOpt)]
