@@ -1,7 +1,7 @@
 [package]
 name = "cowonverter"
-version = "2.1.0"
-authors = ["Bensatankki <axu.hartikainen@gmail.com>"]
+version = "1.0.0"
+authors = ["Bensatankki <axel.hartikainen1@gmail.com>"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
