@@ -1,6 +1,6 @@
 /*
- * TODO use BufReader??
- * TODO nice error handling
+ * TODO: use BufReader??
+ * TODO: nice error handling
  */
 
 use structopt::StructOpt;
