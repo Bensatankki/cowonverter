@@ -8,7 +8,9 @@ A silly program to owo-ify text files.
 # Usage
 
 install with cargo:
+
 `$ cargo install cowonverter`
 
 the command just needs the file path to work:
+
 `$ cowonverter example.txt`
