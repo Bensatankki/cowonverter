@@ -1,6 +1,7 @@
 /*
  * TODO: use BufReader??
  * TODO: nice error handling
+ * TODO: get a nice pair of programming socks to boost programming skill up to 4x
  */
 
 use structopt::StructOpt;
