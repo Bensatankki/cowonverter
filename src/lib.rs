@@ -1,8 +1,4 @@
-fn main(){
-    
-}
-mod converter {
-    
+pub mod converter {    
     #[allow(dead_code)]
     pub fn convert(text: &str ) -> String {
 
@@ -17,4 +13,3 @@ mod converter {
         result
     }
 }
-
