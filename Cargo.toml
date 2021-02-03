@@ -7,6 +7,10 @@ description = "A program to owo-ify text files. outputs owo-ified text to termin
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/Bensatankki/cowonverter"
 
+[lib]
+path = "src/main.rs"
+
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
