@@ -1,6 +1,6 @@
 [package]
 name = "cowonverter"
-version = "2.2.0"
+version = "2.3.0"
 authors = ["Bensatankki <axel.hartikainen1@gmail.com>"]
 edition = "2018"
 description = "A program to owo-ify text files. outputs owo-ified text to terminal"
