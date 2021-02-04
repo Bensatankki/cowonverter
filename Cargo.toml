@@ -1,9 +1,9 @@
 [package]
 name = "cowonverter"
-version = "2.3.0"
+version = "2.4.0"
 authors = ["Bensatankki <axel.hartikainen1@gmail.com>"]
 edition = "2018"
-description = "A program to owo-ify text files. outputs owo-ified text to terminal"
+description = "A library to owo-ify text files. provides a simple function for this purpose."
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/Bensatankki/cowonverter"
 
