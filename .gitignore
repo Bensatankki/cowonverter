@@ -1,1 +1,6 @@
 /target
+<<<<<<< Updated upstream
+=======
+/.vscode
+test.txt
+>>>>>>> Stashed changes
